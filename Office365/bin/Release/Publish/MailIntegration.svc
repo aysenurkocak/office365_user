@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Office365.MailIntegration" CodeBehind="MailIntegration.svc.cs" %>
