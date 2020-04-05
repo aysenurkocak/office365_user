@@ -15,7 +15,7 @@
   </appSettings>
 ```
 
-Fonksiyon [kodları](https://github.com/aysenurkocak/office365_user/blob/master/Office365/MailIntegration.svc.cs)
+[Fonksiyonlar](https://github.com/aysenurkocak/office365_user/blob/master/Office365/MailIntegration.svc.cs)
 
 
 
